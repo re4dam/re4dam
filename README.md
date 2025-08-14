@@ -1,5 +1,5 @@
 # re4dam
-Hello I don't know what or who am i. All I know is that my life depends on the keyboard i type everyday, to help me survive the world we live in.<br>
+Hello I don't know what or who am i. All I know is that my life depends on the keyboard i type everyday, to help me survive the world we live in.<br><br>
 I use Linux cause I can, I configure and find reference from many popular such as one from reddit and YouTube. I want to be Software Engineer cause it forces me to think and also type. I also have interest in Data Engineer, but mostly Software Engineer.
 
 <!--
