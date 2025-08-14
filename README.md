@@ -1,4 +1,6 @@
-## Hi there 👋
+# re4dam
+Hello I don't know what or who am i. All I know is that my life depends on the keyboard i type everyday, to help me survive the world we live in.<br>
+I use Linux cause I can, I configure and find reference from many popular such as one from reddit and YouTube. I want to be Software Engineer cause it forces me to think and also type. I also have interest in Data Engineer, but mostly Software Engineer.
 
 <!--
 **re4dam/re4dam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
