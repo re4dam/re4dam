@@ -71,7 +71,8 @@ More specifically, my hands-on work includes .NET/ASP.NET Core with EventStoreDB
 
 ### 📫 Reach me
 
-Feel free to open an issue on one of my repos or connect via [add your preferred contact — email / LinkedIn / X]
+- Email: <zakiadam332@gmail.com>
+- LinkedIn: [linkedin.com/in/zakiadam025](https://www.linkedin.com/in/zakiadam025)
 
 ---
 
